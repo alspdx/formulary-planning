@@ -1,3 +1,19 @@
+# Formulary (Planning)
+
+#### A color formula and service history management system for hairstylists _2018_
+
+###### by **Adam Smith**
+
+## Description
+
+Formulary is a hairstylist's color formula and service history management tool. A user will be able to keep a list of profiles for their clients. They will be able to add new profiles, edit existing profiles, and delete client profiles. They will also be able to write notes for each service performed for the client including instructions, formula notes, comments, amount of time the service took, and amount charged.
+
+If I have the opportunity I would like to add the ability to save images with the client profile and with each service, log in with email and password, share service and formula notes with other users, search for formulas by keywords (such as color or type of service), and finally to be able to use Formulary as a mobile app.
+
+![component structure of Formulary](images/formulary-component-tree.svg)
+
+## Proposal
+
 **Name of Student:** Adam Smith
 
 **Name of Project:** “Formulary"
@@ -40,3 +56,10 @@
 
 **Is there anything else you’d like your instructor to know?**
 I’m not super concerned about meeting MVP. Long term I would love to develop this app for mobile, as the user story is a lot stronger from that perspective. I have a lot of stylists in my life who love to brainstorm and daydream so there will be no shortage if ideas for new features to implement if/when the time comes.
+
+## Technologies used
+
+* ReactJS
+* Webpack
+* JSX
+* Redux
